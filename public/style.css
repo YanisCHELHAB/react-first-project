@@ -11,6 +11,9 @@
     align-items: center;
 justify-content: center;
 }
+.image{
+border-radius: 5px;
+}
 
 .mynavtitle{
     color: #FFF;
